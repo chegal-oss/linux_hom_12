@@ -1,0 +1,500 @@
+   37  ssh-keygen
+   38  cd ~/Downloads/
+   39  pwd
+   40  ssh-keygen 
+   41  cd ~/Workspace/
+   42  cd ich/
+   43  cat private_key
+   44  cat private_key.pub 
+   45  ls
+   46  mv private_key ich_key
+   47  mv private_key.pub ich_key.pub
+   48  cat ich_key.pub 
+   49  cat ich_key.pub 
+   50  ssh ec2-user@linux.itcareerhub.de
+   51  ssh -i ~/Workspace/ich/ich_key.pub ec2-user@linux.itcareerhub.de
+   52  ssh -i ~/Workspace/ich/ich_key.pub ec2-user@linux.itcareerhub.de
+   53  chmod 600 /Users/chegal/Workspace/ich/ich_key
+   54  chmod 700 /Users/chegal/Workspace/ich
+   55  ssh -i ~/Workspace/ich/ich_key.pub ec2-user@linux.itcareerhub.de
+   56  chmod 600 /Users/chegal/Workspace/ich/ich_key.pub 
+   57  ssh -i ~/Workspace/ich/ich_key.pub ec2-user@linux.itcareerhub.de
+   58  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+   59  cat ~/Workspace/ich/ich_key.pub 
+   60  echo "Hello world\!"
+   61  echo "Hello world\!"
+   62  echo "Hello world\!"
+   63  scp -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de///opt/121225-ptm/cheholia/file.txt
+   64  scp -i ~/Workspace/ich/ich_key  ec2-user@linux.itcareerhub.de:/opt/121225-ptm/cheholia/sergey.txt .
+   65  scp 
+   66  scp -i ~/Workspace/ich/ich_key  ec2-user@linux.itcareerhub.de:/opt/121225-ptm/firemaniak/cat_me.txt .
+   67  ls
+   68  cat cat_me.txt 
+   69  rm cat_me.txt 
+   70  vi cat_me.txt
+   71  scp -i ~/Workspace/ich/ich_key ./cat_me.txt ec2-user@linux.itcareerhub.de:/opt/121225-ptm/cheholia/
+   72  cat ~/.bash_profile
+   73  history 
+   74  vi 
+   75  vi
+   76  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+   77  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+   78  ssh ec2-user@linux.itcareerhub.de
+   79  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+   80  ssh -i ~/Workspace/ich/ich_key linux.itcareerhub.de
+   81  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+   82  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+   83  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+   84  scp ~/Workspace/ich/ich_key 
+   85  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+   86  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+   87  ps -e 
+   88  ps -u
+   89  ps -o
+   90  ps -o
+   91  ps ux
+   92  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+   93  scp -i ~/Workspace/ich/ich_key /opt/121225-ptm/serg/.process.management ~/Downloads/
+   94  scp -i ~/Workspace/ich/ich_key /opt/121225-ptm/serg/.process.management ~/Downloads/
+   95  scp -i ~/Workspace/ich/ich_key /opt/121225-ptm/serg/.process.management ~/Downloads/
+   96  scp -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de:/opt/121225-ptm/serg/.process.management ~/Downloads/
+   97  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+   98  env
+   99  ping 8.8.8.8
+  100  ipconfig /flushdns
+  101  ifconfig 
+  102  ifconfig flushdns
+  103  ping google.com
+  104  ping 8.8.8.8
+  105  ping 8.8.8.8
+  106  ping google.com
+  107  ping google.com
+  108  ping 8.8.8.8
+  109  ping ya.ru
+  110  ping -f -l 1472
+  111  ping  -l 1472
+  112  nameserver
+  113  ping -c 8.8.8.8
+  114  ping -c 3  8.8.8.8
+  115  ping -c google.com  8.8.8.8
+  116  ping -c 3 google.com 
+  117  scutil --dns
+  118  curl -Iv https://google.com
+  119  curl -Iv https://google.com
+  120  scutil --proxy
+  121  sudo networksetup -setv6off Wi-Fi
+  122  netsh interface ipv6 set interface "Wi-Fi" disabled
+  123  curl -Iv https://google.com
+  124  ping google.com
+  125  ping6 google.com
+  126  ping6 google.com
+  127  ping google.com
+  128  ping google.com
+  129  ping6 google.com
+  130  curl -Iv https://google.com
+  131  df -H
+  132  cd ~/Workspace/ich/
+  133  ls
+  134  cd demo/
+  135  ls
+  136  python3 battle.py 
+  137  python3 battle.py 
+  138  python3 battle.py 
+  139  python3 battle.py 
+  140  python3 battle.py 
+  141  python3 battle.py 
+  142  cp battle.py  ~/Workspace/ich/
+  143  python battle.py 
+  144  python3 battle.py 
+  145  python3 battle.py 
+  146   
+  147  brew install sdl2 sdl2_gfx sdl2_image sdl2_mixer sdl2_ttf
+  148  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+  149  cd ~/Workspace/Python/
+  150  ls
+  151  cd jetbra/
+  152  pwd
+  153  xattr -cr /Applications/CLion.app
+  154  pwd
+  155  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+  156  cd ~/Workspace/ich/
+  157  ls
+  158  cd homework
+  159  cd ..
+  160  cd Python/
+  161  cd ic
+  162  cd ich
+  163  ls
+  164  cd homework
+  165  ls
+  166  git init
+  167  git commit -m "first commit"
+  168  git branch -M main
+  169  git remote add origin https://github.com/chegal-oss/121225ptm_cheholia.git
+  170  git push -u origin main
+  171  git add .
+  172  git commit -m "first commit"
+  173  git push -u origin main
+  174  git push -u origin main
+  175  git push -u origin main
+  176  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+  177  cd ~/Workspace/ich/121225ptm_cheholia_sql/
+  178  ls
+  179  git init
+  180  git add .
+  181  git commit -m "HEAD" 
+  182  git -M main
+  183  git branch -M main
+  184  git remote add origin https://github.com/chegal-oss/121225ptm_cheholia_sql.git
+  185  git push -u origin main
+  186  git add .
+  187  git commit -m "HEAD" 
+  188  git status
+  189  git commint -m "Changed"
+  190  git commit -m "Changed"
+  191  git add .
+  192  git commit -m "Changed"
+  193  git push
+  194  git status
+  195  git add .
+  196  git commit -m "Practicum 5"
+  197  git push origin main
+  198  git status
+  199  locate
+  200  locate *.txt
+  201  cd ~/Workspace/ich/
+  202  ls
+  203  ls -al
+  204  mkdir linux
+  205  cd linux
+  206  ls
+  207  cd linux_homework9.txt 
+  208  git status
+  209  mkdir git-branch
+  210  cd git-branch/
+  211  git init
+  212  git branch
+  213  git branch -M main
+  214  mv ~/Downloads/gitignore.txt .gitignore
+  215  git status
+  216  git add .
+  217  git commit -m "HEAD"
+  218  git branch
+  219  git branch -a
+  220  git branch gitignore
+  221  git branch
+  222  git branch -d gitignoge
+  223  git branch -d gitignore
+  224  git branch
+  225  git branch gitignore
+  226  git checkout gitignore
+  227  git status
+  228  git branch
+  229  vi .gitignore 
+  230  git status
+  231  git commit -m "Test"
+  232  git add .gitignore 
+  233  git status
+  234  git commit -m "Test"
+  235  git remote add origin https://github.com/chegal-oss/git-branch.git
+  236  git push -M origin main
+  237  git push -u origin main
+  238  git push
+  239  git push origin gitignore
+  240  git fetch -all
+  241  git fetch --all
+  242  test = "Hello"
+  243  test[:] = list(test)
+  244  test = "Hello"
+  245  test[:] = list(test)
+  246  pwd
+  247  cd Workspace/
+  248  cd ich
+  249  ls
+  250  ls -al
+  251  ls -al | grep d
+  252  cd 121225ptm_cheholia_sql/
+  253  ls
+  254  git status
+  255  git add homework_sql_6.sql 
+  256  git commit -m "Homework 6"
+  257  git push
+  258  cd 121225ptm_cheholia_sql/
+  259  cd ~/Workspace/
+  260  cd ich/
+  261  cd 121225ptm_cheholia_sql/
+  262  ls
+  263  git status
+  264  ait add homework_sql_7.sql 
+  265  git add homework_sql_7.sql 
+  266  git commit -m "Homework 7"
+  267  git push
+  268  git commit -m "Homework 7"
+  269  git add homework_sql_7.sql 
+  270  git commit -m "Homework 7"
+  271  git push
+  272  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+  273  /Applications/Folx.app/Contents/MacOS/Folx ; exit;
+  274  cd ~/Workspace/ich/121225ptm_cheholia_s
+  275  cd ~/Workspace/ich/121225ptm_cheholia_sql/
+  276  git remote -v
+  277  git fetch
+  278  git commit
+  279  git ass practicum_sql_
+  280  git ass practicum_sql_6.sql 
+  281  git add practicum_sql_6.sql 
+  282  got commit
+  283  git commit
+  284  git branches
+  285  git branche
+  286  git branch
+  287  vi
+  288  ls
+  289  mkdir test
+  290  cd test
+  291  git install
+  292  git init
+  293  echo "Test" > READMI.md
+  294  ls
+  295  git status
+  296  vi .gitignore
+  297  ls
+  298  ls -al
+  299  git status
+  300  git add .
+  301  git commit -m "HEAD"
+  302  ls
+  303  git status
+  304  > test.bmp
+  305  ls
+  306  git status
+  307  > 1.BMP
+  308  git status
+  309  git config
+  310  git config -lisr
+  311  git config core.ignorecase
+  312  git status
+  313  ls 
+  314  vi .gitignore 
+  315  mkdir look
+  316  touch ./look/text.txt
+  317  git status
+  318  git add .gitignore 
+  319  git commit -m "HEAD"
+  320  git status
+  321  git rm look/
+  322  git rm look
+  323  git rm -r look
+  324  git rm -r ./look/
+  325  ls
+  326  git check-ignore -v look
+  327  vi .gitignore 
+  328  git add .gitignore 
+  329  git commit -m .gitignore 
+  330  git status
+  331  mkfid look2
+  332  mkdir look2
+  333  touch ./look2/text.txt
+  334  git status
+  335  git add look2/
+  336  git status
+  337  git commit -m "HEAD"
+  338  ls
+  339  git status
+  340  touch ./look2/text3.txt
+  341  ls
+  342  git status
+  343  ls
+  344  git rm ./look2/text.txt 
+  345  ls ./look2/
+  346  git status
+  347  git add ./look2/text3.txt 
+  348  ls
+  349  git sttus
+  350  git status
+  351  git rm ./look2/text3.txt 
+  352  git rm -f ./look2/text3.txt 
+  353  ls ./look2
+  354  mkdir gool
+  355  touch ./gool/text.txt
+  356  ls
+  357  git status
+  358  ls
+  359  git add ./gool/
+  360  git status
+  361  git rm --cashe ./gool/
+  362  git rm --cached ./gool/
+  363  git rm -f --cached ./gool/
+  364  git rm -r --cached ./gool/
+  365  git status
+  366  git commit -m "HEAD"
+  367  ls
+  368  git status
+  369  touch ttt.txt
+  370  touxh ttt1.txt
+  371  touch ttt1.txt
+  372  git status
+  373  git add .
+  374  git status
+  375  git rm --cached .
+  376  git rm -r --cached .
+  377  git status
+  378  git add ./.gitignore 
+  379  git commit -m "gitignore"
+  380  git status
+  381  git add READMI.md 
+  382  git commit -m "Readmi"
+  383  git status
+  384  git branch
+  385  git branch my
+  386  git branch
+  387  git checkout my
+  388  git status
+  389  git add ttt.txt 
+  390  git commit -m "ttt"
+  391  git checkout main
+  392  git merge
+  393  git merge my
+  394  git status
+  395  git checkout my
+  396  gis status
+  397  git status
+  398  git branch
+  399  git add ttt1.txt 
+  400  vi ttt1.txt 
+  401  git status
+  402  cat ttt1.txt 
+  403  git branch main
+  404  git checkout main
+  405  vi ttt1.txt 
+  406  git statis
+  407  git status
+  408  git add ttt1.txt 
+  409  git commit -m "ttt"
+  410  git checkout my
+  411  git status
+  412  git merge main
+  413  пше дщп
+  414  git log
+  415  cat ttt1.txt 
+  416  git checkout 63c71df2b382c876f084b5d178b61a25316fb3e2
+  417  cat ttt1.txt 
+  418  git branch my
+  419  git checkout my
+  420  echo "text" > yyy.txt
+  421  git status
+  422  git add .
+  423  git commit -m "text"
+  424  git status
+  425  ;s
+  426  git status
+  427  cat yyy.txt 
+  428  echo "uuu" >> text
+  429  git status
+  430  git commit -m "yyy"
+  431  git add . 
+  432  git commit -m "hhh"
+  433  cat yyy.txt 
+  434  echoo "yyyyy" >> yyy.txt 
+  435  echo "yyyyy" >> yyy.txt 
+  436  cat yyy.txt 
+  437  git add .
+  438  git commit -m "yyyyyy"
+  439  git log
+  440  git log
+  441  git checkout revert 5de0fd56a4c04cc0554c36ac8be05088eb79ecd
+  442  git reset --soft HEAD~1
+  443  cat yyy.txt 
+  444  restore yyy.txt 
+  445  git restore yyy.txt 
+  446  cat yyy.txt 
+  447  git status
+  448  git restore --source=HEAD~1 yyy.txt 
+  449  cat yyy.txt 
+  450  cd ~/Workspace/Android/Reminders
+  451  cd ~/Workspace/Android/RemindersAS/
+  452  git log
+  453  git log -all
+  454  git log -al
+  455  git log -al
+  456  git log --al
+  457  git log --al;
+  458  git log --all
+  459  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+  460  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+  461  cd ~/Downloads/
+  462  ls
+  463  ls -a script-3
+  464  ls -la script-3.sh 
+  465  echo $USER
+  466  bash /Users/chegal/Workspace/ich/linux/script-3.sh
+  467  bash /Users/chegal/Workspace/ich/linux/script-3.sh
+  468  which bashdb
+  469  bash --version
+  470  bashdb ~/Workspace/ich/linux/script-3.sh
+  471  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+  472  ssh -i ~/Workspace/ich/ich_key ec2-user@linux.itcareerhub.de
+  473  brew install bashdb
+  474   bash -c cd\ \"/Users/chegal/Workspace/ich/linux\"\;\ while\ \[\[\ \!\ -p\ \"/tmp/vscode-bash-debug-fifo-17776\"\ \]\]\;\ do\ sleep\ 0.25\;\ done\;\ \"bash\"\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/bashdb\"\ --quiet\ --tty\ \"/tmp/vscode-bash-debug-fifo-17776\"\ --tty_in\ \"/tmp/vscode-bash-debug-fifo-17776_in\"\ --library\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir\"\ --\ \"/Users/chegal/Workspace/ich/linux/script-3.sh\"\ \  
+  475   cd . ; bash -c cd\ \"/Users/chegal/Workspace/ich/linux\"\;\ while\ \[\[\ \!\ -p\ \"/tmp/vscode-bash-debug-fifo-14407\"\ \]\]\;\ do\ sleep\ 0.25\;\ done\;\ \"bash\"\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/bashdb\"\ --quiet\ --tty\ \"/tmp/vscode-bash-debug-fifo-14407\"\ --tty_in\ \"/tmp/vscode-bash-debug-fifo-14407_in\"\ --library\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir\"\ --\ \"/Users/chegal/Workspace/ich/linux/script-3.sh\"\ \  
+  476   cd . ; bash -c cd\ \"/Users/chegal/Workspace/ich/linux\"\;\ while\ \[\[\ \!\ -p\ \"/tmp/vscode-bash-debug-fifo-18767\"\ \]\]\;\ do\ sleep\ 0.25\;\ done\;\ \"bash\"\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/bashdb\"\ --quiet\ --tty\ \"/tmp/vscode-bash-debug-fifo-18767\"\ --tty_in\ \"/tmp/vscode-bash-debug-fifo-18767_in\"\ --library\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir\"\ --\ \"/Users/chegal/Workspace/ich/linux/script-3.sh\"\ \  
+  477   cd . ; bash -c cd\ \"/Users/chegal/Workspace/ich/linux\"\;\ while\ \[\[\ \!\ -p\ \"/tmp/vscode-bash-debug-fifo-11880\"\ \]\]\;\ do\ sleep\ 0.25\;\ done\;\ \"bash\"\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/bashdb\"\ --quiet\ --tty\ \"/tmp/vscode-bash-debug-fifo-11880\"\ --tty_in\ \"/tmp/vscode-bash-debug-fifo-11880_in\"\ --library\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir\"\ --\ \"/Users/chegal/Workspace/ich/linux/script-3.sh\"\ \  
+  478   cd . ; bash -c cd\ \"/Users/chegal/Workspace/ich/linux\"\;\ while\ \[\[\ \!\ -p\ \"/tmp/vscode-bash-debug-fifo-11241\"\ \]\]\;\ do\ sleep\ 0.25\;\ done\;\ \"bash\"\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/bashdb\"\ --quiet\ --tty\ \"/tmp/vscode-bash-debug-fifo-11241\"\ --tty_in\ \"/tmp/vscode-bash-debug-fifo-11241_in\"\ --library\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir\"\ --\ \"/Users/chegal/Workspace/ich/linux/script-3.sh\"\ \  
+  479   cd . ; bash -c cd\ \"/Users/chegal/Workspace/ich/linux\"\;\ while\ \[\[\ \!\ -p\ \"/tmp/vscode-bash-debug-fifo-12367\"\ \]\]\;\ do\ sleep\ 0.25\;\ done\;\ \"bash\"\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/bashdb\"\ --quiet\ --tty\ \"/tmp/vscode-bash-debug-fifo-12367\"\ --tty_in\ \"/tmp/vscode-bash-debug-fifo-12367_in\"\ --library\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir\"\ --\ \"/Users/chegal/Workspace/ich/linux/script-3.sh\"\ \  
+  480   cd . ; bash -c cd\ \"/Users/chegal/Workspace/ich/linux\"\;\ while\ \[\[\ \!\ -p\ \"/tmp/vscode-bash-debug-fifo-19319\"\ \]\]\;\ do\ sleep\ 0.25\;\ done\;\ \"bash\"\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/bashdb\"\ --quiet\ --tty\ \"/tmp/vscode-bash-debug-fifo-19319\"\ --tty_in\ \"/tmp/vscode-bash-debug-fifo-19319_in\"\ --library\ \"/Users/chegal/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir\"\ --\ \"/Users/chegal/Workspace/ich/linux/script-3.sh\"\ \  
+  481  cd Downloads/
+  482  cd ~/Downloads/
+  483  pwd
+  484  find /opt/ -f -name *.txt
+  485  find /opt/  -name *.txt
+  486  find -r /opt/  -name *.txt
+  487  find -R /opt/  -name *.txt
+  488  find /opt/  -name "*.txt"
+  489  pip install scipy
+  490  pip install fipy matplotlib pillow numpy
+  491  pyenv install 3.11.8
+  492  pyenv virtualenv 3.11.8 fipy_env
+  493  pip install fipy matplotlib pillow numpy
+  494  python my_simulation.py
+  495  python diff_test_8.py
+  496  ls
+  497  cd ..
+  498  ls
+  499  cd formula/
+  500  python diff_test_8.py 
+  501  brew install jupyterlab
+  502  jupyter notebook
+  503  cd ~/Downloads/
+  504  mkdir hom_12
+  505  cd hom_12/
+  506  git clone https://github.com/chegal-oss/linux_hom_12.git
+  507  git status
+  508  cd linux_hom_12/
+  509  git status
+  510  git branch feature
+  511  git checkout feature
+  512  git branch
+  513  vi README.md 
+  514  ls
+  515  vi .gitignore 
+  516  git commit -m "Changed 2 files"
+  517  git add .
+  518  git commit -m "Changed 2 files"
+  519  git puch
+  520  git push
+  521  git push -u origin feature
+  522  git commit --amend "Test"
+  523  git commit --amend 
+  524  git commit --amend -m "Test"
+  525  git push
+  526  git pull
+  527  git --amend -m "Test"
+  528  git commit --amend -m "Test"
+  529  git status
+  530  git push --force
+  531  git branch main
+  532  git checkout main
+  533  git merge feature
+  534  git puch
+  535  git push
+  536  history > history.txt
